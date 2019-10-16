@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP off the record 4 java
 tags: example-tag
 level: 4
+type: code
 
 ---
 
