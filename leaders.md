@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Jigar Joshi](mailto://)
+* [Jigar Joshi](mailto:)
